@@ -109,6 +109,8 @@ npm run dev
 
 ---
 
+vercel link - https://revision-hub-smoky.vercel.app/
+
 ## 🎯 Motivation
 
 LifeOS was built as a React revision project to strengthen frontend fundamentals and gradually evolve into a complete full-stack productivity platform.
